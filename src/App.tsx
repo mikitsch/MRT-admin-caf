@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
+import "./App.css";
+import Example from "./table/MRT";
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <Example />
     </div>
   );
 }
